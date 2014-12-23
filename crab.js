@@ -1,4 +1,4 @@
-/*! Crab.JS - v2.0.4 - 2014-12-23
+/*! Crab.JS - v0.0.1 - 2014-12-23
  * https://github.com/lvsiquan/Crab
  *
  * Copyright (c) 2014 Lvsiquan;
