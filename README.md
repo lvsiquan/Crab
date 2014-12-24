@@ -23,3 +23,9 @@ Crab
     crab.on('swipetop', function () {
         alert('top');
     });
+
+or
+
+crab.on('swipeleft,swiperight,swipebottom,swipetop', function () {
+        dosomething
+    });
