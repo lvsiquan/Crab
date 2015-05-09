@@ -1,7 +1,7 @@
 /*! Crab.JS - v0.0.1 - 2014-12-23
  * https://github.com/lvsiquan/Crab
  *
- * Copyright (c) 2014 Lvsiquan;
+ * Copyright (c) 2015 Lvsiquan;
  * Licensed under the MIT license */
 var Crab = function (elementId, options) {
     var c = new C(elementId, options);
